@@ -1,4 +1,4 @@
-![image](https://github.com/OhSeungMok/OhSeungmok/assets/67811313/182cc669-e87d-4ed8-ac04-7e7d63807a8a)### Hi there 👋
+### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=venom&color=3CB371&height=200&text=OSM%20Github!&animation=scaleIn) 
 [![GitHub Streak](https://streak-stats.demolab.com?user=OhSeungMok&theme=vue&card_width=854&hide_border=true)](https://git.io/streak-stats)
 <!--
