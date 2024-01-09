@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=OSM%20Github!&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=7F7FD5&height=200&text=OSM%20Github!&animation=scaleIn)
 <!--
 **OhSeungMok/OhSeungmok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
