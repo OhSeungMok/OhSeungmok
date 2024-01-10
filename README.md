@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 
 
-#내가 지금 배우는 건? 
+#내가 지금 배우는 건?#
 
 
    
