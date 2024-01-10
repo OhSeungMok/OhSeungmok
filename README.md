@@ -5,6 +5,7 @@
 <h1>Oh Seung MOk</h1>
 
 ### Hi there 👋
+### I'm Seungmok Oh, I hope to FullStack-Engineer
 
 <h2>Studying!</h2>   
 
