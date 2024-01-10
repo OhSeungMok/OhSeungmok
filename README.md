@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=3CB371&height=200&text=OSM%20Github!&animation=scaleIn) 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=OhSeungMok&theme=vue&card_width=854)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OhSeungMok&theme=vue&hide_border=true&card_width=854" alt="GitHub Streak" /></a>
 
 # Oh Seung MOk
 
