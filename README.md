@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=3CB371&height=200&text=OSM%20Github!&animation=scaleIn) 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=OhSeungMok&theme=vue&hide_border=true&card_width=854)](https://git.io/streak-stats)
+![header](https://capsule-render.vercel.app/api?type=venom&color=3CB371&height=200&text=OSM%20Github!&animation=scaleIn) 
 
 # Oh Seung MOk
 
