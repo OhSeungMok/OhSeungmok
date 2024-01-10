@@ -2,7 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=3CB371&height=200&text=OSM%20Github!&animation=scaleIn) 
 [![GitHub Streak](https://streak-stats.demolab.com?user=OhSeungMok&theme=vue&card_width=854&hide_border=true)](https://git.io/streak-stats)
 
-
+<h1>Oh Seung MOk</h1>
+### Hi there 👋
 
 <h2>Studying!</h2>   
 
